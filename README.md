@@ -1,4 +1,7 @@
 # robot-arm
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/AdnanBayu/robot-arm)
+![GitHub last commit](https://img.shields.io/github/last-commit/AdnanBayu/robot-arm)
+
 ## robot arm with 2 controlling system.
 - gesture control using accelerometer sensor MPU6050 and Arduino UNO
 - IoT control using blynk and ESP32 <br>
